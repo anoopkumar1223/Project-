@@ -1,6 +1,6 @@
 # Project-
 Our college project on Rover
-TEAM DYNAMICS
+
 LITERTURE SURVEY 
 DOMAIN:  IMAGE PROCESSING
 
